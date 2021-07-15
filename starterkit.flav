@@ -1,0 +1,24 @@
+; Any line below preceeded by semicolon is a comment.  Some optional
+; directives are commented out, but you're welcome to use them by
+; removing the comment.  The directives that are not commented out by
+; default are required for your theme to work correctly.
+
+;----------// Theme Information
+
+  name        = future of teaching
+  description = A brief description about the theme.
+  module      = hwpi_onepage
+  screenshot  = screenshot.png
+
+;----------// Stylesheets
+
+  css[] = css/starterkit.css
+; css[] = css/starterkit.layout.css
+; ie_stylesheets[screen][lt IE 9][] = css/starterkit-ie.css
+
+;scripts[] = js/starterkit.js
+;scripts[] = https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+
+;aberdeen, aglet, airstream, ballard, bartik, bigpic, bunchy, cayley, cleanblue, collector, collegiate, commodore, department, documental, 
+;dunster, eloquent, garland, hwpi_classic, hwpi_modern, hwpi_vibrant, nortony, redhead, seven, stark, stripy, and weft
+;hwpi_onepage
